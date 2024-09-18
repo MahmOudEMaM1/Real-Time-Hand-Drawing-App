@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2632a1c8-8373-4c72-aeb2-ce2e67d3473c)
 
-*Real-Time Hand-Tracking Drawing App with Color and Thickness Selection*
+# *Real-Time Hand-Tracking Drawing App with Color and Thickness Selection*
 
 Description:
 This project leverages OpenCV, NumPy, and MediaPipe to create a real-time drawing application using hand gestures. It enables users to draw on a canvas by tracking hand movements via a webcam.
