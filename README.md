@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2632a1c8-8373-4c72-aeb2-ce2e67d3473c)
+
 
 # *Real-Time Hand-Tracking Drawing App with Color and Thickness Selection*
 
@@ -12,3 +12,5 @@ Color and Thickness Selection: Users can select colors (white, green, red, black
 
 Dynamic Drawing: Draws lines on a canvas based on finger movement, with support for clearing the canvas.
 The app features interactive controls for color and thickness, providing a simple and intuitive drawing experience.
+
+![image](https://github.com/user-attachments/assets/2632a1c8-8373-4c72-aeb2-ce2e67d3473c)
